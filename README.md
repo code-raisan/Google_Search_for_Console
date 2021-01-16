@@ -1,2 +1,2 @@
-# Google-Search-for-Console
+# Google Search for Console
 コマンドラインからGoogle検索ができるアプリケーションです。
