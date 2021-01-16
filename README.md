@@ -14,8 +14,7 @@ Google検索
 
 
 下記のリンクよりダウンロードしてください。
-
-
+[https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.exe]
 
 
 ## PATH
