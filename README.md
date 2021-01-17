@@ -15,7 +15,8 @@ Google検索
 
 下記のリンクよりダウンロードしてください。
 
-[ダウンロード](https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.exe)
+https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.exe
+
 ブロックされてしまう場合はこちらでもダウンロードできます。
 ```
 > curl -O https://limu.ml/daa9x
