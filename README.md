@@ -30,3 +30,6 @@ PS C:￥apps￥gsfc > .￥ggr.exe @add--path ←どこでも使えるように�
 
 ### *1でエラーが出る場合
 
+下記のリンクよりダウンロードして配置してください
+
+https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.zip
