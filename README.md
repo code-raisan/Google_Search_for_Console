@@ -16,6 +16,10 @@ Google検索
 下記のリンクよりダウンロードしてください。
 
 [ダウンロード](https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.exe)
+ブロックされてしまう場合はこちらでもダウンロードできます。
+```
+> curl -O https://limu.ml/daa9x
+```
 > ご使用には、 Microsoft .NET Framework 4.7.2 が必要になります
 
 
