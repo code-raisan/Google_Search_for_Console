@@ -33,6 +33,6 @@ https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.exe
 
 次に下記のようなコマンドをコマンドプロンプトまたはWindows PowerShellなどに打ち込んでください。
 ```
-> [プログラムまでのパス(例 : C:￥app￥gsfc￥ggr.exe)] @add-path
+> [プログラムまでのパス(例 : C:￥app￥gsfc￥ggr.exe)] @add--path
 ```
 これで成功と出ていればPATHが通っているので ` ggr [キーワード] ` が使えるかどうか試してみてください
