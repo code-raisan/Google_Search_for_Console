@@ -19,7 +19,7 @@ https://github.com/code-raisan/Google-Search-for-Console/raw/main/build/ggr.exe
 
 ブロックされてしまう場合はこちらでもダウンロードできます。
 ```
-> curl https://limu.ml/daa9x -O
+> curl https://limu.ml/daa9x -o ggr.exe
 ```
 > ご使用には、 Microsoft .NET Framework 4.7.2 が必要になります
 
