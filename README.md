@@ -19,7 +19,7 @@ Google検索
 PS> mkdir C:￥apps￥gsfc ←ここは任意のディレクトリを指定
 PS> cd C:￥apps￥gsfc ←さっき作ったフォルダに移動
 
-PS C:￥apps￥gsfc > curl https://limu.ml/daa9x -o ggr.exe ←ファイルをダウンロード(エラーが出る場合は下を参照)*1
+PS C:￥apps￥gsfc > curl https://github.com/code-raisan/Google_Search_for_Console/blob/main/build/ggr.exe?raw=true -o ggr.exe ←ファイルをダウンロード(エラーが出る場合は下を参照)*1
 PS C:￥apps￥gsfc > .￥ggr.exe @add--path ←どこでも使えるようにするためにPATHを通します
 
 // 「成功 : 指定した値は保存されました」と出たらPATHの追加ができています
